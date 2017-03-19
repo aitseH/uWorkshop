@@ -1,6 +1,13 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/uScript/uScriptRuntime/Nodes/Actions/Animation/uScriptAct_GetAnimationState.cs">
+    <Files>
+      <File FileName="Assets/uScriptProjectFiles/uScripts/_GeneratedCode/Test.cs" Line="109" Column="7" />
+      <File FileName="Assets/Scripts/Controller/GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Lib/Message.cs" Line="1" Column="1" />
+      <File FileName="Assets/uScript/uScriptRuntime/Nodes/Actions/Animation/uScriptAct_GetAnimationState.cs" Line="15" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
